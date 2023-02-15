@@ -1,7 +1,9 @@
+import ObjectArray from './Components/UseStateObject';
+
 function App() {
   return (
     <div className='container'>
-      <h2>Advanced React</h2>
+      <ObjectArray />
     </div>
   );
 }
