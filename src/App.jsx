@@ -1,9 +1,9 @@
-import ObjectArray from './Components/UseStateObject';
+import MultipleReturnsFetch from './Components/MultipleReturnsFetch';
 
 function App() {
   return (
     <div className='container'>
-      <ObjectArray />
+      <MultipleReturnsFetch />
     </div>
   );
 }
