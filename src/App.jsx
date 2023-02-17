@@ -1,9 +1,9 @@
-import MultipleReturnsFetch from './Components/MultipleReturnsFetch';
+import ShortCircuitLogin from './Components/ShortCircuitLogin';
 
 function App() {
   return (
     <div className='container'>
-      <MultipleReturnsFetch />
+      <ShortCircuitLogin />
     </div>
   );
 }
